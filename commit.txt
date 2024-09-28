@@ -1,6 +1,0 @@
-28/09/2024
-
-Added PHY module, receiving serial data from the medium and passing 4 bit nibbles to the MAC.
-At the moment the serial frequency = rx_clk
-
-Created top level module with MAC and PHY instantiations.
